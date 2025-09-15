@@ -1,2 +1,4 @@
 # first-repo
-first repo created by jisu sarkar
+first repo created by me
+<br>
+Author - jisu sarkar
